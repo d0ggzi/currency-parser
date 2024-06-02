@@ -1,0 +1,37 @@
+[
+    {
+        "ru_name": "Доллар США",
+        "en_name": "dollar",
+        "cur_code": 52148
+    },
+    {
+        "ru_name": "Евро",
+        "en_name": "euro",
+        "cur_code": 52170
+    },
+    {
+        "ru_name": "Фунт Стерлингов",
+        "en_name": "pound",
+        "cur_code": 52146
+    },
+    {
+        "ru_name": "Йена",
+        "en_name": "yen",
+        "cur_code": 52246
+    },
+    {
+        "ru_name": "Турецкая лира",
+        "en_name": "turkish lira",
+        "cur_code": 52158
+    },
+    {
+        "ru_name": "Индийская рупия",
+        "en_name": "indian rupee",
+        "cur_code": 52238
+    },
+    {
+        "ru_name": "Китайский юань",
+        "en_name": "CNY",
+        "cur_code": 52207
+    }
+]
